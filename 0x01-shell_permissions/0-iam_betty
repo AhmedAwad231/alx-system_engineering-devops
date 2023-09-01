@@ -1,3 +1,3 @@
-#!/bin/bash
-useradd betty
+#!/bin/bash/
+sudo adduser betty
 su betty
