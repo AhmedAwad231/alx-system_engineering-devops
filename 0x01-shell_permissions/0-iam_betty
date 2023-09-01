@@ -1,3 +1,2 @@
-#!/bin/bash/
-useradd betty
+#!/bin/bash
 su betty
